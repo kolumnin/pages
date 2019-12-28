@@ -9,7 +9,7 @@
 </thead>
 <tfoot><tr><td bgcolor=yellow><hr></td></tr></tfoot>
 <tbody bgcolor=orange>
-<tr><td bgcolor=green colspan=3>pages contains a collection selected randomly from an older collection. php scripts were found working at my deprecated first domain kolumn.in</td></tr>
+<tr><td bgcolor=green colspan=3>pages contains a collection selected randomly from an older collection. php scripts were found working at my deprecated first domain kolumn.in but may not serve any purpose unless composer is installed properly.</td></tr>
 <tr><td  bgcolor=""></td></tr><tr><td rowspan=2  bgcolor=red></td></tr></tbody></table> 
 
 <footer>Last updated: 2019-12-28 05:53IST</footer>
