@@ -13,7 +13,7 @@
 <tr><td  bgcolor=""></td></tr><tr><td rowspan=2  bgcolor=red></td></tr></tbody></table> 
 
 https://github.com/kolumnin/pages/blob/master/README.md
+https://github.com/kolumnin/pages/blob/master/SECURITY.md
 https://github.com/kolumnin/pages/blob/master/README.md
-
 <footer>Last updated: 2020-1-5 15:36 IST</footer>
 </body></html>
