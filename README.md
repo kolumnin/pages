@@ -15,5 +15,5 @@
 https://www.kolumnin.com
 
 
-<footer>Last updated: 2020-1-5 15:36 IST</footer>
+<footer>Last updated: 2020-1-6 15:57 IST</footer>
 </body></html>
