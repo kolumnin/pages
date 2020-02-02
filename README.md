@@ -11,7 +11,7 @@
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3>pages contains a collection selected randomly from an older collection. php scripts were found working at my deprecated first domain kolumn.in but may not serve any purpose unless composer is installed properly.</td></tr>
 <tr><td  bgcolor=""></td></tr><tr><td rowspan=2  bgcolor=red>
-https://lokumnin.github.io</td></tr></tbody></table> 
+https://kolumnin.github.io</td></tr></tbody></table> 
 
 https://www.kolumnin.com
 <br>
@@ -19,5 +19,5 @@ https://www.kolumnin.com
 https://github.com/kolumnin/pages/
 <br>
 
-<footer>Last updated: 2020-1-6 15:57 IST</footer>
+<footer>Last updated: 2020-2-6 11:42 IST</footer>
 </body></html>
