@@ -14,7 +14,10 @@
 https://lokumnin.github.io</td></tr></tbody></table> 
 
 https://www.kolumnin.com
+<br>
 
+https://github.com/kolumnin/pages/
+<br>
 
 <footer>Last updated: 2020-1-6 15:57 IST</footer>
 </body></html>
