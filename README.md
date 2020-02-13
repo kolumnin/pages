@@ -17,6 +17,7 @@ https://www.kolumnin.com
 <br>
 
 https://github.com/kolumnin/pages/master/index.html
+https://github.com/kolumnin/pages/blob/master/index.html
 <br>
 
 <footer>Last updated: 2020-2-6 11:42 IST</footer>
