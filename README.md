@@ -16,8 +16,6 @@ https://kolumnin.github.io</td></tr></tbody>
 
 <div>https://www.kolumnin.com</div>
 
-https://github.com/kolumnin/pages/master/index.html
-<br>
 
-<footer>Last updated: 2020-02-21 07:21 IST</footer>
+<footer>Last updated: 2020-02-21 07:32 IST</footer>
 </body></html>
