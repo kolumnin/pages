@@ -15,7 +15,7 @@ https://kolumnin.github.io/</td></tr></tbody>
 </table> 
 
 
-<div></div>
+https://kolumnin.github.io-ghsa-3v3m-f8c3-w65p/index.html
 
 
 <footer>Last updated: 2020-03-10 12:38 IST</footer>
