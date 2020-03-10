@@ -10,7 +10,7 @@
 <tfoot><tr><td bgcolor=red><hr></td></tr></tfoot>
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3>pages contains a collection selected randomly from an older collection. php scripts were found working at my deprecated first domain kolumn.in but may not serve any purpose unless composer is installed properly.</td></tr>
-<tr><td  bgcolor="">https://kolumnin.github.io/pages/About.html</td></tr><tr><td rowspan=2  bgcolor=red>
+<tr><td  bgcolor="">https://kolumnin.github.io/pages</td></tr><tr><td rowspan=2  bgcolor=red>
 https://kolumnin.github.io/pages</td></tr></tbody>
 </table> 
 
