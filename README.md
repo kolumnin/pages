@@ -15,8 +15,7 @@
 <tr><td bgcolor="">https://kolumnin.github.io/pages</td></tr>
 <tr><td bgcolor=red>https://kolumnin.github.io/</td></tr>
 <tr><td bgcolor=red>https://kolumnin.github.io/pages/index.html</td></tr>
-<tr><td>https://kolumnin.github.io/Page1.html</td></tr>
-0
+<tr><td>https://kolumnin.github.io/pages/Page1.html</td></tr>
 </tbody>
 </table> 
 
