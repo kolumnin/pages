@@ -15,8 +15,7 @@
 https://kolumnin.github.io/</td></tr>
 <tr><td rowspan=2 bgcolor=red>
 https://kolumnin.github.io/pages/index.html</td>
-<br>https://kolumnin.github.io/pages/page1.html</td>
-
+<td>https://kolumnin.github.io/pages/page1.html</td>
 </tr>
 
 </tbody>
