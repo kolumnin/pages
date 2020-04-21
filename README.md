@@ -20,8 +20,6 @@
 </table> 
 
 
-https://kolumnin.github.io-ghsa-3v3m-f8c3-w65p/
 
-
-<footer>Last updated: 2020-03-10 12:38 IST</footer>
+<footer>Last updated: 2020-04-21 06:56 IST</footer>
 </body></html>
