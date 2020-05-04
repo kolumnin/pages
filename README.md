@@ -20,6 +20,6 @@
 </table> 
 
 https://kolumnin.github.io/pages/myWingsOfFire.jpg
-
+https://kolumnin.github.io/pages/Page2.html
 <footer>Last updated: 2020-05-03 11:45 IST</footer>
 </body></html>
