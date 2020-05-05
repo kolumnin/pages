@@ -13,13 +13,11 @@
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3>pages</td></tr>
 <tr><td bgcolor="">https://kolumnin.github.io/pages</td></tr>
-<tr><td bgcolor=red>https://kolumnin.github.io/</td></tr>
+<tr><td bgcolor=red>https://kolumnin.github.io/pages/Page1.html</td></tr>
 <tr><td bgcolor=red>https://kolumnin.github.io/pages/index.html</td></tr>
-<tr><td>https://kolumnin.github.io/pages/Page1.html</td></tr>
+<tr><td>https://kolumnin.github.io/pages/Page2.html</td></tr>
 </tbody>
 </table> 
 
-https://kolumnin.github.io/pages/myWingsOfFire.jpg
-https://kolumnin.github.io/pages/Page2.html
-<footer>Last updated: 2020-05-03 11:45 IST</footer>
+<footer>Last updated: 2020-05-05 15:12 IST</footer>
 </body></html>
