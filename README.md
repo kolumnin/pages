@@ -9,9 +9,9 @@
 </thead>
 <tfoot><tr><td bgcolor=yellow>Pages</td></tr></tfoot>
 <tbody bgcolor=orange>
-kolumnin
 <tr><td bgcolor=green colspan=3>pages</td></tr>
-<tr><td  bgcolor=""><a href="https://www.kolumnin.com/">Pages</a></td></tr><tr><td rowspan=2 bgcolor=red>bg</td></tr></tbody></table> 
+<tr><td  bgcolor=""><a href="https://kolumnin.github.io/pages">Pages</a></td></tr>
+<tr><td rowspan=2 bgcolor=red>bg</td></tr></tbody></table> 
 </div>
 <table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
 <col group valign="top">
