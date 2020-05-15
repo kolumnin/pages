@@ -4,6 +4,15 @@
 </head>
 <body bgcolor="">
 <header><HR></header>
+<div><table width="100%" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor=""><col group valign="top"><col border=""  align="left"><col border=""  align="center"><col align=right border="" ><tr><td></td></tr>
+<col valign=top align=left width="" height=""><thead valign=top><tr><th bgcolor=indigo><H2>Kolumnin</H2></th></tr>
+</thead>
+<tfoot><tr><td bgcolor=yellow>Pages</td></tr></tfoot>
+<tbody bgcolor=orange>
+kolumnin
+<tr><td bgcolor=green colspan=3>pages</td></tr>
+<tr><td  bgcolor=""><a href="https://www.kolumnin.com/">Pages</a></td></tr><tr><td rowspan=2 bgcolor=red>bg</td></tr></tbody></table> 
+</div>
 <table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
 <col group valign="top">
 <col border=""  align="left"><col border=""  align="center"><col align=right border="" ><tr><td></td></tr>
