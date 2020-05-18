@@ -14,7 +14,6 @@
 <tr><td rowspan=2 bgcolor=red></td></tr></tbody></table> 
 https://kolumnin.github.io/pages/index.html
 </div>
-https://kolumnin.github.io/pages/Muraleedharan.html
 <table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
 <col group valign="top">
 <col border=""  align="left"><col border=""  align="center"><col align=right border="" ><tr><td></td></tr>
