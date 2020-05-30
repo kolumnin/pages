@@ -3,7 +3,8 @@
 <link rel="stylesheet" href="/kol.css" type="text/css">
 </head>
 <body bgcolor="">
-<header><HR></header>
+<header>
+https://kolumnin.github.io/pages/Gp.jpg</header>
 <div><table width="100%" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor=""><col group valign="top"><col border=""  align="left"><col border=""  align="center"><col align=right border="" ><tr><td></td></tr>
 <col valign=top align=left width="" height=""><thead valign=top><tr><th bgcolor=indigo><H2>Kolumnin/Pages</H2></th></tr>
 </thead>
