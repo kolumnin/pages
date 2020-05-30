@@ -28,6 +28,6 @@ https://kolumnin.github.io/pages/index.html
 <tr><td></td></tr>
 </tbody>
 </table> 
-
+https://kolumnin.github.io/pages/Page1.html
 <footer>Last updated: 2020-05-15 20:10 IST</footer>
 </body></html>
