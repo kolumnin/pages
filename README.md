@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <link rel="stylesheet" href="/kol.css" type="text/css">
@@ -30,5 +31,5 @@ https://kolumnin.github.io/pages/index.html
 </tbody>
 </table> 
 https://kolumnin.github.io/pages/Page1.html
-<footer>Last updated: 2020-05-15 20:10 IST</footer>
+<footer>Last updated: 2020-06-25 09:20 IST</footer>
 </body></html>
