@@ -26,10 +26,10 @@ https://kolumnin.github.io/pages/index.html
 <tfoot><tr><td bgcolor=red></td></tr></tfoot>
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3></td></tr>
-<tr><td bgcolor=""></td></tr>
+<tr><td bgcolor="" width=100%>
+https://kolumnin.github.io/pages/Page1.html</td></tr>
 <tr><td></td></tr>
 </tbody>
 </table> 
-https://kolumnin.github.io/pages/Page1.html
 <footer>Last updated: 2020-06-25 09:20 IST</footer>
 </body></html>
