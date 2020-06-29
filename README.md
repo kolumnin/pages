@@ -4,12 +4,11 @@
 <link rel="stylesheet" href="/kol.css" type="text/css">
 </head>
 <body bgcolor=">
-<header><IMG src="
-https://kolumnin.github.io/pages/Gp.jpg></header>
+<header>Pages</header>
 <div><table width="100%" border="1" cols="3" rows="" align="center" bordercollapse="" rules=""  bgcolor=""><col group valign="top"><col border="1"  align="left"><col border=""  align="center"><col align=right border="" ><tr><td></td></tr>
 <col valign=top align=left width="" height=""><thead valign=top><tr><th bgcolor=indigo><H2>Kolumnin/Pages</H2></th></tr>
 </thead>
-<tfoot><tr><td bgcolor=yellow></td>https://kolumnin.github.io/pages/index.html</tr></tfoot>
+<tfoot><tr><td bgcolor=yellow></td></tr></tfoot>
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3></td></tr>
 <tr><td  bgcolor=""><a href="https://kolumnin.github.io/pages">Pages</a></td></tr>
@@ -22,7 +21,7 @@ https://kolumnin.github.io/pages/Gp.jpg></header>
 <tr><td></td></tr>
 <thead valign=top><tr><th bgcolor=indigo><H4></H4></th></tr>
 </thead>
-<tfoot><tr><td bgcolor=red></td></tr></tfoot>
+<tfoot><tr><td bgcolor=red>https://kolumnin.github.io/pages/index.html</td></tr></tfoot>
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3></td></tr>
 <tr><td bgcolor="" width=100%>
@@ -30,5 +29,5 @@ https://kolumnin.github.io/pages/Page1.html</td></tr>
 <tr><td></td></tr>
 </tbody>
 </table> 
-<footer>Last updated: 2020-06-25 09:20 IST</footer>
+<footer>Last updated: 2020-06-29 13:32 IST</footer>
 </body></html>
