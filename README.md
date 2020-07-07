@@ -21,11 +21,10 @@
 <tr><td></td></tr>
 <thead valign=top><tr><th bgcolor=indigo><H4></H4></th></tr>
 </thead>
-<tfoot><tr><td bgcolor=red>https://kolumnin.github.io/pages/index.html</td></tr></tfoot>
+<tfoot><tr><td width=100%><a href="https://kolumnin.github.io/pages/index.html>Index</a></td></tr></tfoot>
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3></td></tr>
-<tr><td bgcolor="" width=100%>
-https://kolumnin.github.io/pages/Page1.html</td></tr>
+<tr><td bgcolor="" width=100%><a href="https://kolumnin.github.io/pages/Page1.html">Page1</a></td></tr>
 <tr><td></td></tr>
 </tbody>
 </table> 
