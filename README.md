@@ -28,5 +28,5 @@
 <tr><td></td></tr>
 </tbody>
 </table> 
-<footer>Last updated: 2020-06-29 13:32 IST</footer>
+<footer>Last updated: 2020-07-07 13:22 IST</footer>
 </body></html>
