@@ -24,9 +24,9 @@
 <tfoot><tr><td width=100%><a href="https://kolumnin.github.io/pages/index.html>Index</a></td></tr></tfoot>
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3></td></tr>
-<tr><td bgcolor="" width=100%><a href="https://kolumnin.github.io/pages/Page1.html">Page1</a></td></tr>
+<tr><td bgcolor="" width=100%><a href="https://kolumnin.github.io/pages/KoluMnIN.html">kolumnin</a></td></tr>
 <tr><td></td></tr>
 </tbody>
 </table> 
-<footer>Last updated: 2020-07-21 09:16 IST</footer>
+<footer>Last updated: 2020-07-27 12:57 IST</footer>
 </body></html>
