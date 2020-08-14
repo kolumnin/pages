@@ -11,7 +11,7 @@
 <tfoot><tr><td bgcolor=yellow></td></tr></tfoot>
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3></td></tr>
-<tr><td  bgcolor=""><a href="https://kolumnin.github.io/pages">Pages</a></td></tr>
+<tr><td  bgcolor=""><a href="https://github.com/kolumnin/pages">Pages</a></td></tr>
 <tr><td rowspan=2 bgcolor=red></td></tr></tbody></table> 
 </div>
 <table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
