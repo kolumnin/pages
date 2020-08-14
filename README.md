@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<link rel="stylesheet" href="/kol.css" type="text/css">
+<link rel="stylesheet" href="/global.css" type="text/css">
 </head>
 <body bgcolor="lightgreen">
 <header></header>
