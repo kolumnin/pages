@@ -7,6 +7,9 @@
 [Pages](https://kolumnin.GitHub.io/pages/index.html)
 <p>
 [page1](https://kolumnin.github.io/pages/LogoM.html)
+
+[page2](https://kolumnin.github.io/pages/page2.html)
+[page3](https://kolumnin.github.io/pages/Page3.html)
 </p>
 <!--table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
 <col group valign="top">
