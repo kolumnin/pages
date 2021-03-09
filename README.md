@@ -3,7 +3,8 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <link rel="stylesheet" href="/global.css" type="text/css">
 </head>
-<body bgcolor="w3-blue"><header>Pages
+<body bgcolor="w3-blue"><header>
+[Pages](https://kolumnin.GitHub.io/pages/index.html)
 <p>
 [page1](https://kolumnin.github.io/pages/LogoM.html)
 </p>
