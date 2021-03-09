@@ -3,7 +3,7 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <link rel="stylesheet" href="/global.css" type="text/css">
 </head>
-<body bgcolor=""><header>Pages
+<body bgcolor="w3-blue"><header>Pages
 <p>
 [page1](https://kolumnin.github.io/pages/LogoM.html)
 </p>
@@ -21,5 +21,5 @@
 <tr><td></td></tr>
 </tbody>
 </table--></header>
-<footer>Last updated: 2021-03-04 07:57 IST</footer>
+<footer>Last updated: 2021-03-09 11:14 IST</footer>
 </body></html>
