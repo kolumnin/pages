@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="/global.css" type="text/css">
 </head>
 <body bgcolor=""><header>Pages
+[page1](https://kolumnin.gitgub.io/pages/LogoM.html)
 <!--table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
 <col group valign="top">
 <col border=""  align="left"><col border=""  align="center"><col align=right border="" ><tr><td></td></tr>
