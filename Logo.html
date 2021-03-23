@@ -70,10 +70,45 @@
   font-size: 24px; 
   line-height: 25px;
   border-radius: 4px;}
+body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.logo-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
 </style>
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 <body class="w3-color-yellow w3-wide w3-center">
 <DIV Id="Logo" class="header">
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>LOGO</h1>
+    <p>HI</p>
+    <button>HI</button>
+  </div>
+</div>
 <button class="BTN" width="400px" height="200px" w3.show('#Logo'); onclick="w3.hide('#Logo')"; return:false;>
 <a href="https://kolumnin.github.io/" class="Logo">KoluMnIN</a></button>
 </DIV>
