@@ -6,7 +6,7 @@
 <body bgcolor="w3-blue"><header>
 [Pages](https://kolumnin.GitHub.io/pages/index.html)
 <p>
-[page1](https://kolumnin.github.io/pages/Logo.html)
+[page1](https://kolumnin.github.io/pages/LOGO.html)
 [page2](https://kolumnin.github.io/pages/page2.htm)
 [page3](https://kolumnin.github.io/pages/page3.html)
 </p>
