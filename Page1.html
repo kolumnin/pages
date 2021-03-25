@@ -2,13 +2,43 @@
 <html><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <link rel="stylesheet" href="/kol.css" type="text/css">
-<title>kolumnin_pages_page1</title></head>
+<title>kolumnin_pages_page1</title>
+<script>
+function includeHTML() {
+  var z, i, elmnt, file, xhttp;
+  /* Loop through a collection of all HTML elements: */
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain atrribute:*/
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      /* Make an HTTP request using the attribute value as the file name: */
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /* Remove the attribute, and call this function once more: */
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      } 
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /* Exit the function: */
+      return;
+    }
+  }
+}
+</script>
+</head>
 <body bgcolor="white" width=100%>
 <div>
 <header><a href="https://kolumnin.github.io/pages">Pages</a><BR><HR></header>
 </div>
 <img src="/Radial_20200717_054817_resize_84.jpg" width="300" height="300">
-<div></div>
+<div w3-include-html="LOGO.html"></div>
 <div></div>
 <!--div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="kolumnin"><a class="LI-simple-link" href='https://in.linkedin.com/in/kolumnin?trk=profile-badge'>linkedin</a></div--> 
 <span class="w3-span w3-white w3-text-blue" width="100px">span</span>
@@ -21,6 +51,7 @@ kolumnin
 <tr><td bgcolor=green width="100px" colspan=3>pagesW100</td></tr>
 <tr><td  bgcolor=""><a href="https://www.kolumnin.com/">Pages</a></td></tr><tr><td rowspan=2 bgcolor=red>bg</td></tr></tbody></table> 
 </div>
+<script>include HTML();</script>
 <div><footer>Last updated: 2020-07-21 09:15 IST</footer></div>
 <a href="https://github.com/">GitHub</a>
 </body></html>
