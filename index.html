@@ -1,38 +1,8 @@
 <!DOCTYPE HTML>
 <html><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<link rel="stylesheet" href="/global.css" type="text/css">
+<!--link rel="stylesheet" href="/global.css" type="text/css"-->
 <title>kolumnin_github_io__pages_index</title>
-
-<script>
-function includeHTML() {
-  var z, i, elmnt, file, xhttp;
-  /* Loop through a collection of all HTML elements: */
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    elmnt = z[i];
-    /*search for elements with a certain atrribute:*/
-    file = elmnt.getAttribute("w3-include-html");
-    if (file) {
-      /* Make an HTTP request using the attribute value as the file name: */
-      xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
-          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
-          /* Remove the attribute, and call this function once more: */
-          elmnt.removeAttribute("w3-include-html");
-          includeHTML();
-        }
-      } 
-      xhttp.open("GET", file, true);
-      xhttp.send();
-      /* Exit the function: */
-      return;
-    }
-  }
-}
-</script>
 </head>
 <body bgcolor="white" width=100%>
 <div class="w3-include-html='/LOGO.html'"></div>
@@ -50,14 +20,13 @@ function includeHTML() {
 </header>
 <a href="https://github.com">GitHub</a>
 <img src="/pages/Radial_20200717_054817_resize_84.jpg">
-<a href="http://kolumnin.github.io/pages/SDGs.html">SDGs</a>
+<a href="http://kolumnin.github.io/pages/"></a>
 </div>
 <a href="http://kolumnin.github.io/Logo.html">Logo</a>
 <a href="http://kolumnin.github.io/pages/LOGO.html">LOGO</a>
 <a href="http://kolumnin.github.io/pages/Page1.html">page1</a>
 <a href="http://kolumnin.github.io/pages/Page2.html">page2</a>
 <a href="http://kolumnin.github.io/pages/page3.html">page3</a>
-<div><footer>Last updated: 2021-04-20 10:40 IST</footer>
+<div><footer>Last updated: 2021-04-22 14:26 IST</footer>
 </div>
-<script>include HTML();</script>
 </body></html>
