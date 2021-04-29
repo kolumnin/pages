@@ -1,5 +1,7 @@
+#GitHub Pages
+##Websites for you and your projects.
+###Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
-[Pages](https://kolumnin.GitHub.io/pages/index.html)
 <!DOCTYPE HTML>
 <html><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
