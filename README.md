@@ -14,7 +14,7 @@
 <tr><td></td></tr>
 <thead valign=top><tr><th bgcolor=indigo><H4><a href="https://github.com/kolumnin/pages">Pages</a></H4></th></tr>
 </thead>
-<tfoot><tr><td width=100%><a href="https://kolumnin.github.io/pages/index.html">Index</a></td></tr></tfoot>
+<tfoot><tr><td width=100%></td></tr></tfoot>
 <tbody bgcolor=orange>
 <tr><td bgcolor=green colspan=3></td></tr>
 <tr><td bgcolor="" width=100%><a href="https://kolumnin.github.io/pages/index.html">kolumnin</a></td></tr>
