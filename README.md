@@ -1,11 +1,11 @@
+
+[Pages](https://kolumnin.GitHub.io/pages/index.html)
 <!DOCTYPE HTML>
 <html><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <link rel="stylesheet" href="/global.css" type="text/css">
 </head>
-<body bgcolor="w3-blue"><header>
-[Pages](https://kolumnin.GitHub.io/pages/index.html)
-<p>
+<body bgcolor="w3-blue"><header><p>
 </p>
 <table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
 <col group valign="top">
