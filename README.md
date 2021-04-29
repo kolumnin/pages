@@ -6,11 +6,8 @@
 <body bgcolor="w3-blue"><header>
 [Pages](https://kolumnin.GitHub.io/pages/index.html)
 <p>
-[page1](https://kolumnin.github.io/pages/LOGO.html)
-[page2](https://kolumnin.github.io/pages/page2.htm)
-[page3](https://kolumnin.github.io/pages/page3.html)
 </p>
-<!--table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
+<table width="" border="" cols="" rows="" align="center" bordercollapse="" rules=""  bgcolor="green">
 <col group valign="top">
 <col border=""  align="left"><col border=""  align="center"><col align=right border="" ><tr><td></td></tr>
 <col valign=top align=left width="" height="">
@@ -23,6 +20,6 @@
 <tr><td bgcolor="" width=100%><a href="https://kolumnin.github.io/pages/KoluMnIN.html">kolumnin</a></td></tr>
 <tr><td></td></tr>
 </tbody>
-</table--></header>
-<footer>Last updated: 2021-03-09 11:14 IST</footer>
+</table></header>
+<footer>Last updated: 2021-04-29 10:15 IST</footer>
 </body></html>
