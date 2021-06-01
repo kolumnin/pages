@@ -1,8 +1,7 @@
 #**GitHub** [Pages](
 https://kolumnin.github.io/pages/index.html)
-for you and your projects
-
+for your [repositories](https://github.com/kolumnin) are
 #Hosted directly from your GitHub repository
 
-Just edit, push, and your changes are live.
+Just edit, push, and commit and your changes are live.
 
