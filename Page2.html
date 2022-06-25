@@ -1,3 +1,17 @@
+---
+layout: presentation
+---
+
+{% for post in site.posts reversed %}
+	{% include slide.html %}
+	<div class="page-break"></div>
+{% endfor %}
+{% unless site.simple-slideshow %}
+{% if site.overview %}
+<section id="overview" class="step" {% for attr in site.overview-data %} data-{{attr[0]}}="{{attr[1]}}"{% endfor %}></section>
+{% endif %}
+{% endunless %}
+
 <!DOCTYPE HTML>
 <head>
 <title>page2_html</title>
@@ -77,11 +91,10 @@ Tel: +919387177255/+918289857255</b><div class="w3-col l12 m8 s6 w3-left"></p>
 <hr>
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 <div>©2000-<a href="http://KoluMnIN.github.io/Author.html">Dr.K.Muraleedharan</a> All rights reserved.</div>
-<p>Last update: 08:56 2021 May 03</a>@kolumnin</p>
+<p>Last update: 18:06 2022 Jun 25</a>@kolumnin</p>
 </footer>
 </section>
 <div class="w3-col-3 w3-pale-green w3-center"><a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
 </div>
 </div></div>
 </body></html>
- 
