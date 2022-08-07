@@ -5,3 +5,4 @@ for the [repositories](https://github.com/kolumnin) are
 
 Just edit, push, and commit and the changes are live.
 
+[PayPal](https://github.com/kolumnin/pages/PayPal.html)
