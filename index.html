@@ -1,18 +1,3 @@
----
-layout: default
----
-
-<div class="block">
-div class="block"
-</div>
-<div class="block">
-  <h1><span class="header-inside">Projects</span></h1>
-  <div id="projects-panel">
-2022 Decembr 01 09:05 IST
-  </div>
-</div>
-<div class="block">2022-12-19-13:24
-</div>
 <!DOCTYPE HTML>
 <head>
 <title>pages_index</title>
@@ -38,22 +23,6 @@ div class="block"
 </div>
 <section class="w3-nav">
 <a class="w3-logo w3-green w3-btn w3-left" href="/index.html">home</a>
-<a class="w3-logo w3-blue w3-btn w3-left" href="/Author.html">author</a>
-<a class="w3-logo w3-red w3-btn w3-left" href="https://github.com/kolumnin/">github</a>
-<a class="w3-logo w3-orange w3-btn w3-left" href="https://kolumnin.hashnode.dev">blog</a>
-<a class="w3-logo w3-pink w3-btn w3-left" href="https://sites.google.com/site">kolumnin</a>
-<a class="w3-logo w3-indigo w3-btn w3-left" href="https://www.google.com">google</a>
-<a class="w3-logo w3-teal w3-btn w3-left" href="https://www.microsoft.com">microsoft</a>
-<a class="w3-logo w3-yellow w3-btn w3-left" href="https://www.yahoo.com">yahoo</a>
-<a class="w3-logo w3-purple w3-btn w3-left" href="https://www.bsnl.co.in">telecom</a>
-<a class="w3-logo w3-green w3-btn w3-left" href="https://gitlab.com/users/sign_in">gitlab</a>
-<a class="w3-logo w3-blue w3-btn w3-left" href="https://github.com/marketplace/my-device-access-gateway"></a>
-<UL>
-<LI><a class="w3-logo w3-yellow w3-btn w3-left" href="https://www.yahoo.com">yahoo</a>
-<LI><a class="w3-logo w3-purple w3-btn w3-left" href="https://www.bsnl.co.in">telecom</a>
-<LI><a class="w3-logo w3-green w3-btn w3-left" href="https://gitlab.com/users/sign_in">gitlab</a>
-<a class="w3-logo w3-blue w3-btn w3-left" href="https://github.com/marketplace/my-device-access-gateway"></a>
-</UL>
 </section>
 </header>
 </section>
@@ -81,56 +50,10 @@ div class="block"
 <hr>
 <iframe src="https://github.com/sponsors/kolumnin/button" title="Sponsor kolumnin" height="35" width="116" style="border: 0;"></iframe>
 <hr>
-<div id="smart-button-container">
-      <div style="text-align: center;">
-        <div id="paypal-button-container"></div>
-      </div>
-    </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
-  <script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'rect',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'paypal',
-          
-        },
-
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"amount":{"currency_code":"USD","value":1}}]
-          });
-        },
-
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(orderData) {
-            
-            // Full available details
-            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-            // Show a success message within this page, e.g.
-            const element = document.getElementById('paypal-button-container');
-            element.innerHTML = '';
-            element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-            // Or go to another URL:  actions.redirect('thank_you.html');
-            
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
-        }
-      }).render('#paypal-button-container');
-    }
-    initPayPalButton();
-  </script>
 
 <footer Id="Logo" class="w3-col-3 w3-footer w3-left">
 <div>©2000-<a href="http://KoluMnIN.github.io/Author.html">Dr.K.Muraleedharan</a> All rights reserved.</div>
-<p>Last update: 13:28 2022 Dec 19</a>@kolumnin</p>
+<p>Last update: 13:34 2022 Dec 19</a>@kolumnin</p>
 </footer>
 </section>
 <div class="w3-col-3 w3-pale-green w3-center"><a href="https://GitHub.com/kolumnin"><b>KoluMnIN</b></a> is hosted by <a href="https://GitHub.com"><b>GitHub</b></a>
