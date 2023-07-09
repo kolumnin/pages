@@ -6,4 +6,5 @@ for the [repository: kolumnin](https://github.com/kolumnin) are
 Just edit, push, and commit and the changes are live.
 
 [Code of conduct](https://github.com/kolumnin/pages/blob/master/CODE_OF_CONDUCT.md)
-[Text](https://kolumnin.github.io/pages/Auto.txt)
+
+[Auto](https://kolumnin.github.io/pages/Auto.md)
