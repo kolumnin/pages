@@ -7,4 +7,4 @@ Just edit, push, and commit and the changes are live.
 
 [Code of conduct](https://github.com/kolumnin/pages/blob/master/CODE_OF_CONDUCT.md)
 
-[Read](https://github.com/KoluMnIN/pages/TextRead.md)
+[Read](https://github.com/kolumnin/pages/blob/master/TextRead.md)
