@@ -9,3 +9,4 @@ Just edit, push, and commit and the changes are live.
 
 [Read](https://github.com/kolumnin/pages/blob/master/TextRead.md)
 [kolumnin_bot](https://kolumnin.github.io/pages/kolumnin_bot.html)
+[lokumninindex](https://kolumnin.github.io/pages/lokumninindex.html)
